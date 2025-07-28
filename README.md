@@ -1,14 +1,18 @@
-# DevelopersHub Corporation  
-**AI/ML Engineering – Advanced Internship Tasks**  
-**Due Date:** 28th July 2025
-**Name: Alishba Noor**
-**Intern ID: DHC-1539**
-**Internship Status: Ongoing**
-**Assigned Task: Task 2 (Categorized into 5 subtasks)**
-**Subtasks Completed: 1,2,3,**  
+# AI/ML Engineering – Advanced Internship Tasks
+
+**Name:** Alishba Noor  
+
+**Intern ID:** DHC-1539  
+
+**Internship Status:** Ongoing  
+
+**Assigned Task:** Task 2 (Categorized into 5 subtasks)  
+
+**Subtasks Completed:** 1, 2, 3  
+
+
 
 ## **Overview**
-
 This repository contains completed tasks from the Advanced Internship Program at **DevelopersHub Corporation**. These tasks are designed to provide hands-on experience with modern machine learning and artificial intelligence techniques, including transformer models, machine learning pipelines, multimodal learning, and deep learning.
 
 **Completed Tasks:**  
